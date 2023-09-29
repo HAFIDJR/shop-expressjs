@@ -27,3 +27,5 @@ exports.getProduct = (req, res, next) => {
     productCSS: true,
   });
 };
+
+// tambah nilai data
